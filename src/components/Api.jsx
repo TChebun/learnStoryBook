@@ -1,0 +1,1 @@
+export const apiWords = "https://itgirlschool.justmakeit.ru/api/words";
